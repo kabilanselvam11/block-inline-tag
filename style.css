@@ -1,0 +1,16 @@
+.block{
+    background-color: black;
+    color: aliceblue;
+}
+span{
+    color: blue;
+}
+h1{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.inline{
+    background-color: rgb(192, 228, 95);
+    color: rgb(34, 31, 27);
+}
